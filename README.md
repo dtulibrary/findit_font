@@ -42,6 +42,6 @@ findit.dev.svg file to the app. Svg files which does not origin in a font set ar
 * The [Font Awesome](http://fortawesome.github.com/Font-Awesome) font is
   licensed under the [SIL Open Font License](http://scripts.sil.org/OFL).
 * The font is generated with icomoon.io under the [CC License (CC BY 3.0)](http://creativecommons.org/licenses/by/3.0/)
-* The (Open Access icon)[http://commons.wikimedia.org/wiki/File:Open_Access_logo_PLoS_transparent.svg] is licensed under the [CC License (CC0 1.0)](http://creativecommons.org/publicdomain/zero/1.0/deed.en)  
+* The [Open Access icon](http://commons.wikimedia.org/wiki/File:Open_Access_logo_PLoS_transparent.svg) is licensed under the [CC License (CC0 1.0)](http://creativecommons.org/publicdomain/zero/1.0/deed.en)  
 * The remainder of the findit_font project is licensed under the
   [MIT License](http://opensource.org/licenses/mit-license.html).
